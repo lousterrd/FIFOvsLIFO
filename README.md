@@ -2,6 +2,7 @@
 
 
 *Purpose*
+
 The purpose of the project was to have us compare and contrast two different implementations of a Queue.  
 
 ===== Array Queue =====
